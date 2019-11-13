@@ -1,0 +1,30 @@
+body {
+  background-color: #ffffff;
+  font-family: 'Candara';
+}
+#header {
+  position: fixed;
+  background: #ffffff;
+  top: 0vw;
+  right: 1.5vw;
+  left: 1.5vw;
+}
+#header-color {
+  background-color: #22938c;
+  width: 20vw;
+  height: 4vw;
+}
+h1 {
+  font-weight: bold;
+  font-family: 'Oswald';
+  text-align: left;
+  margin: 0px;
+}
+h2 {
+  font-family: 'Oswald';
+  text-align: left;
+  font-weight: normal;
+  font-size:1.5vw;
+  border-bottom: 3px solid black;
+  margin: 0vw;
+  padding-bottom: 1vw;}
